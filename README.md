@@ -1,5 +1,5 @@
 # hello-world
 
-Test repository
+Just Test
 
-I'd like to make some changes.
+I'd like to make some changes. And I did it.
